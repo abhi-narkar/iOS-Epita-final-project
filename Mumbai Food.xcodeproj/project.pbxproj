@@ -27,11 +27,6 @@
 		285BDC731FFAA8110006CE50 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		285BDC791FFAA8DB0006CE50 /* logo .jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "logo .jpg"; sourceTree = "<group>"; };
 		28A0DA391FFABB79004F7DAA /* TableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewController.swift; sourceTree = "<group>"; };
-		28A0DA401FFACE8B004F7DAA /* MisalPav.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = MisalPav.jpg; path = ../../../MisalPav.jpg; sourceTree = "<group>"; };
-		28A0DA411FFACE8C004F7DAA /* Falooda.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Falooda.jpg; path = ../../../Falooda.jpg; sourceTree = "<group>"; };
-		28A0DA421FFACE8C004F7DAA /* PaniPuri.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = PaniPuri.jpg; path = ../../../PaniPuri.jpg; sourceTree = "<group>"; };
-		28A0DA431FFACE8C004F7DAA /* PavBhaji.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = PavBhaji.jpg; path = ../../../PavBhaji.jpg; sourceTree = "<group>"; };
-		28A0DA441FFACE8C004F7DAA /* VadaPav.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = VadaPav.jpg; path = ../../../VadaPav.jpg; sourceTree = "<group>"; };
 		28A0DA451FFADFC3004F7DAA /* foodStreet.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = foodStreet.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -71,11 +66,6 @@
 				28A0DA391FFABB79004F7DAA /* TableViewController.swift */,
 				285BDC6E1FFAA8110006CE50 /* Assets.xcassets */,
 				28A0DA451FFADFC3004F7DAA /* foodStreet.jpg */,
-				28A0DA411FFACE8C004F7DAA /* Falooda.jpg */,
-				28A0DA401FFACE8B004F7DAA /* MisalPav.jpg */,
-				28A0DA421FFACE8C004F7DAA /* PaniPuri.jpg */,
-				28A0DA431FFACE8C004F7DAA /* PavBhaji.jpg */,
-				28A0DA441FFACE8C004F7DAA /* VadaPav.jpg */,
 				285BDC701FFAA8110006CE50 /* LaunchScreen.storyboard */,
 				285BDC791FFAA8DB0006CE50 /* logo .jpg */,
 				285BDC731FFAA8110006CE50 /* Info.plist */,
